@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/highlights-jekyll-theme/</loc>
+<loc>http://localhost:4000/childhood-literacy/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/highlights-jekyll-theme/elements.html</loc>
+<loc>http://localhost:4000/childhood-literacy/elements.html</loc>
 <lastmod>2016-08-28T21:38:44-05:00</lastmod>
 </url>
 </urlset>

@@ -1,26 +1,19 @@
-# Highlights - Jekyll Theme
+# Childhood Literacy: At large and at home
 
-A Jekyll version of the "Highlights" theme by [HTML5 UP](https://html5up.net/).
+This educational website seeks to help visitors understand and promote childhood
+literacy. It is this author's hope that if this becomes common knowledge, we
+can all help to fight illiteracy.
 
-![Highlights Theme](images/highlights.jpg "Highlights Theme")
+The page:
+* Defines what makes a "non-proficient reader".
+* Provides some recent statistical snapshots of the impact of childhood literacy.
+* Offers visitors ideas and methods they can practice and/or share to promote literacy.
 
-# How to Use
-
-For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
-and [creating pages](https://jekyllrb.com/docs/pages/).
-
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
-- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file! The `.gitlab-ci.yml` file is only needed for GitLab Pages, so feel free to delete this if you are using GitHub instead.
-
-# Added Features
-
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
-* Add your **social profiles** easily in `_config.yml`.
-* **Automatic sitemap generation** via the [Jekyll Sitemap Generator](https://github.com/jekyll/jekyll-sitemap) plugin.
-* **Automatic SEO** via the [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag) plugin.
+---
 
 # Credits
+
+This site was built using the [Jekyll version](https://github.com/andrewbanchich/Highlights-Jekyll-Theme) of the "Highlights" theme by [HTML5 UP](https://html5up.net/).
 
 Original README from HTML5 UP:
 
