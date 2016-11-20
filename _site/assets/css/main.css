@@ -1046,7 +1046,7 @@ a {
   -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   border-bottom: dotted 1px;
-  color: #8cd1a8;
+  color: #61c589;
   text-decoration: none; }
   a:hover {
     border-bottom-color: transparent !important;
@@ -2008,7 +2008,7 @@ button,
     height: 100vh;
     vertical-align: middle; }
   #header header {
-    color: rgba(255, 255, 255, 0.5);
+    color: #ffffff;
     display: inline-block;
     padding-bottom: 8em;
     vertical-align: middle; }
@@ -2052,7 +2052,7 @@ button,
     box-shadow: inset 0 1px 0 0 #dddddd; }
   #footer footer {
     bottom: 2em;
-    color: rgba(255, 255, 255, 0.5);
+    color: #ffffff;
     left: 0;
     position: absolute;
     text-align: center;

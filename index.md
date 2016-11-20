@@ -75,13 +75,13 @@ description: testtitle</a>
                               <ul>
                                     <li>Keep reading material around the house</li>
                                     <li>Let your child see you enjoy reading</li>
-                                    <li>Write lists/notes together or to each other (grocery lists, reminders)</li>
+                                    <li>Write lists/notes together or to each other (e.g., grocery lists, reminders)</li>
                                     <li>Explore the library or bookstore together</li>
-                                    <li>Model speech and storytelling (share family stories)</li>
+                                    <li>Model speech and storytelling (e.g., share family stories)</li>
                               </ul>
                         <h5>0 - 3 years old</h5>
                               <ul>
-                                    <li>Talk to them. They may not understand yet, but the more words they hear, the greater their vocabulary and cognitive development</li>
+                                    <li>Talk to them. They may not understand yet, but the more words they hear, the greater their vocabulary and cognitive development will be</li>
                                     <li>Read to them <i>at least</i> 20 minutes per day</li>
                               </ul>
                         <h5>3 - 11 years old</h5>
@@ -112,12 +112,12 @@ description: testtitle</a>
 <!-- Four -->
 <section id="four" class="main special">
 	<div class="container">
-		<span class="image fit primary"><img src="images/pic03.jpg" alt="" /></span>
+		<span class="image fit primary"><img src="images/pic03-1.jpg" alt="" /></span>
 		<div class="content">
 			<header class="major">
 				<h2>Closing thoughts</h2>
 			</header>
-                  <p>I hope that you can now share with others the importance and simplicity of promoting literacy at home. If this becomes common knowledge, hopefully we can all help to fight illiteracy and create a greater number of readers.</p>
+                  <p>I hope that you can now share with others the importance and simplicity of promoting literacy at home. If this becomes common knowledge, hopefully we can all help to fight illiteracy.</p>
                   <br>
                   
                   <h3>References</h3>
