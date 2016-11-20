@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Childhood Literacy
-description: testtitle</a>
+title: Childhood Literacy: At home and at large
+description: Understanding and promoting childhood literacy at home.
 ---
 
 <!-- One -->
