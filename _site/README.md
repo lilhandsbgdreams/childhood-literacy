@@ -1,4 +1,4 @@
-# Childhood Literacy: At large and at home
+# Childhood Literacy: At home and at large
 
 This educational website seeks to help visitors understand and promote childhood
 literacy. It is this author's hope that if this becomes common knowledge, we

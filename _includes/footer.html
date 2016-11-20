@@ -1,6 +1,7 @@
 <!-- Footer -->
 <section id="footer">
-	<div class="container">
+	
+	<!--<div class="container">
 		<header class="major">
 			<h2>Get in touch</h2>
 		</header>
@@ -16,7 +17,7 @@
 				</div>
 			</div>
 		</form>
-	</div>
+	</div>-->
 	<footer>
 		<ul class="icons">
 		    {% if site.twitter_url %}
@@ -41,7 +42,7 @@
 				<li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
 				{% endif %}
 				{% if site.github_url %}
-				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+				<li><a href="{{ site.github_url }}" target="_blank"><i class="fa fa-github"></i><span class="label">&nbsp;GitHub</span></a></li>
 				{% endif %}
 				{% if site.slack_url %}
 				<li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
@@ -51,7 +52,7 @@
 				{% endif %}
 		</ul>
 		<ul class="copyright">
-			<li>&copy; {{ site.title }}</li><li>Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a></li><li>Demo Images: <a href="http://unsplash.com" target="_blank">Unsplash</a></li><li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+			<li>&copy; {{ site.title }}</li><li>Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a></li><li>Images: <a href="http://unsplash.com" target="_blank">Unsplash</a></li><li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
 		</ul>
 	</footer>
 </section>
