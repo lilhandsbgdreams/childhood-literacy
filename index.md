@@ -100,7 +100,7 @@ description: Understanding and promoting childhood literacy at home
                                     <li><a href="https://www.youtube.com/watch?v=-OG2Q6pPQYw" target="_blank">[YouTube] How To Read With Your Child</a></li>
                                     <li><a href="http://www.seussville.com/Parents/tips_reading_child.php" target="_blank">Tips for Reading with Your Children</a></li>
                                     <li><a href="http://www.raisesmartkid.com/all-ages/1-articles/52-reading-to-children-how-tos-and-tips" target="_blank">How To Read To Your Child: Tips & Tricks</a></li>
-                                    <li><a href="http://www.rif.org/books-activities/tips-resources/how-to-read-aloud-to-your-child/" target="_blank">How to Read Aloud to Your Child</a></li>
+                                    <li><a href="https://www.rif.org/blog/tips-for-reading-aloud-so-you-can-unlock-a-childs-imagination" target="_blank">Tips for Reading Aloud so You Can Unlock a Child's Imagination</a></li>
                                     <li><a href="http://www.readingrockets.org/article/reading-tips-parents-preschoolers" target="_blank">Reading Tips for Parents of Preschoolers</a></li>
                               </ul>
                   </div>
