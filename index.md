@@ -12,7 +12,7 @@ description: Understanding and promoting childhood literacy at home
 			<header class="major">
 				<h2>What is a "non-proficient reader"?</h2>
 			</header>
-			<p>When literacy studies refer to "non-proficient readers", they're referring to readers that <b>range anywhere from illiterate to only having basic reading skills.</b> Some of these children can read words and sentence, however they:</p>
+			<p>When literacy studies refer to "non-proficient readers", they're referring to readers that <b>range anywhere from illiterate to only having basic reading skills.</b> Some of these children can read words and sentences, however they:</p>
                   <div align="left"><ul>
                         <li>Don't comprehend what they read</li>
                         <li>Don't think critically about what they read</li>
